@@ -1,4 +1,6 @@
 
+[ ![Codeship Status for windaktiv-allgaeu/ionic](https://www.codeship.io/projects/59dc03c0-dea8-0131-7c94-1a30552eb857/status)](https://www.codeship.io/projects/24848)
+
 [![Issues Ready](https://badge.waffle.io/driftyco/ionic.png?label=ready&title=Ready)](https://waffle.io/driftyco/ionic)
 
 The best place to start with Ionic is our [documentation page](http://ionicframework.com/docs/).
